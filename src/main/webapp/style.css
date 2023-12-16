@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+table.t1 {
+	font-size: small;
+	width: 1250px;
+	padding: 10px;
+	margin-left: 280px;
+	border: 1px solid #444444;
+}
+td#question {
+	font-weight: 600;
+	padding-left: 200px;
+	padding-bottom: 40px;
+}
+p {
+	font-size: smaller;
+	color: gray;
+}
+table.t2 {
+	font-size: small;
+	width: 1250px;
+	padding: 80px;
+	margin-left: 280px;
+	border-left: 1px solid #444444;
+	border-right: 1px solid #444444;
+}
+
+select {
+	width: 390px;
+}
+input#submit {
+	margin-left:650px;
+	font-size: small;
+	font-weight: 300;
+	text-align: center;
+	width: 600px;
+	height: 40px;
+	border-radius: 40px;
+	background-color: black;
+	color: white;
+}
